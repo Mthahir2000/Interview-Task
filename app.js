@@ -133,5 +133,5 @@ function displayInputs(){
     document.writeln("Your UserName : "+Username+"<br>");
     document.writeln("Your Email : "+Email+"<br>");
     document.writeln("Your PhoneNo. : "+PhoneNo+"<br>");
-    document.writeln("Your Password: "+Password+"<br>");
+    document.writeln("Your Password : "+Password+"<br>");
 }
